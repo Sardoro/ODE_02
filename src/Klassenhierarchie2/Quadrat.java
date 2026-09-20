@@ -1,4 +1,6 @@
-public class Quadrat implements Form{
+package Klassenhierarchie2;
+
+public class Quadrat implements Form {
     int seite;
 
     public Quadrat(int seite) {

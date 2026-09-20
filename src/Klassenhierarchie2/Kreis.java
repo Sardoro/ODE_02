@@ -1,4 +1,6 @@
-public class Kreis implements Form{
+package Klassenhierarchie2;
+
+public class Kreis implements Form {
 
     int radius;
 

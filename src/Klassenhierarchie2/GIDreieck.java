@@ -1,4 +1,6 @@
-public class GIDreieck implements Form{
+package Klassenhierarchie2;
+
+public class GIDreieck implements Form {
     int seite;
 
     public GIDreieck(int seite){
